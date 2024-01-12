@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+.total {
+  margin-left: 10%;
+  width: 50%;
+}
+.main {
+  margin: 1rem;
+  width: 100%;
+}
+.my-name {
+  margin-top: 2rem;
+}
+
+.content {
+  font-size: 1.8rem;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
