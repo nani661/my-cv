@@ -10,9 +10,13 @@ html {
 .total {
   margin-left: 10%;
   width: 50%;
+  min-width: 35rem;
+  display: flex;
+  flex-direction: column;
+  justify-self: start;
+  align-items: center;
 }
 .main {
-  margin: 1rem;
   width: 100%;
 }
 .my-name {
