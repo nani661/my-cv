@@ -29,5 +29,5 @@ html {
   margin-top: 1rem;
 }
 .avata {
-  width: 250px;
+  max-width: 250px;
 }
