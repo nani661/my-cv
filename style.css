@@ -28,6 +28,10 @@ html {
   margin-left: 2rem;
   margin-top: 1rem;
 }
+.hope {
+  width: 40%;
+}
 .avata {
-  max-width: 250px;
+  width: 100%;
+  height: auto;
 }
